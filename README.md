@@ -14,28 +14,29 @@
 
 ## General Background Reading
 
-[The Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+Some general background readings that will help establish the
+foundation for this week's work. From [Python for Data Analysis](https://wesmckinney.com/book/) by Wes McKinney:
 
-- Chapter 2: Numpy
-- Chapter 3: Pandas
-- Chapter 4: matplotlib
+- [Chatper 2: Python Basics](https://wesmckinney.com/book/python-basics)
+- [Chapter 3: Built-in Python Features](https://wesmckinney.com/book/python-builtin)
+- [Chapter 4: NumPy Basics](https://wesmckinney.com/book/numpy-basics)
+- [Chapter 5: Intro to pandas](https://wesmckinney.com/book/pandas-basics)
+- [Chapter 9: Plotting & visualization](https://wesmckinney.com/book/plotting-and-visualization)
 
 ## Documentation
 
 - [GeoPandas](http://geopandas.org/)
-  - [Choropleth Maps](https://geopandas.readthedocs.io/en/latest/mapping.html#choropleth-maps)
-  - [Converting DataFrames to GeoDataFrames](https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html)
-  - [Managing Projections](http://geopandas.org/projections.html)
-  - [Merging Data](https://geopandas.readthedocs.io/en/latest/mergingdata.html)
+  - [Choropleth Maps](https://geopandas.org/en/latest/docs/user_guide/mapping.html)
+  - [Converting DataFrames to GeoDataFrames](https://geopandas.org/en/latest/gallery/create_geopandas_from_pandas.html)
+  - [Managing Projections](https://geopandas.org/en/stable/docs/user_guide/projections.html)
+  - [Merging Data](https://geopandas.org/en/latest/docs/user_guide/mergingdata.html)
 - [Classification Schemes](https://pysal.org/mapclassify/api.html)
-- [Contextily](https://github.com/darribas/contextily/)
 
 ## Further Reading / References
 
-- [Comparing Map Projections](http://metrocosm.com/compare-map-projections.html)
 - [West Wing and the Gall-Peters Projections](https://www.youtube.com/watch?v=vVX-PrBRtTY)
 - [xkcd Comic on Projections](https://xkcd.com/977/)
 - [The True Size Of](https://thetruesize.com/)
 - [Coordinate Reference Systems](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/coordinate_reference_systems.html)
 - [EPSG Codes](http://epsg.io/)
-- [Cartopy and Matplotlib](https://geopandas.readthedocs.io/en/latest/gallery/cartopy_convert.html)
+
